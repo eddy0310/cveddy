@@ -1,0 +1,19 @@
+<cv>
+<personne>
+  <nom>lecaille</nom>
+  <prenom>eddy</prenom>
+  <adresse>boujan</adresse>
+</personne>
+<cpt>
+ <list>
+  <cpt1>bla</cpt1>
+  <cpt2>bli</cpt2>
+ </list>
+</cpt>
+<exp>
+ <list>
+  <exp1>glo</exp1>
+  <exp2>panini</exp2>
+ </list>
+</exp>
+</cv>

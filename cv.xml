@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cv titre="">
+	<individu>
+		<nom></nom>
+		<prenom></prenom>
+		<age></age>
+		<telephone></telephone>
+		<email></email>
+	</individu>
+
+	<formations>
+		<formation date=""></formation>
+	</formations>
+
+	<experiences>
+		<experience date="" lieu=""></experience>
+	</experiences>
+
+	<langues>
+		<langue nom="" niveau="" />
+	</langues>
+</cv>
